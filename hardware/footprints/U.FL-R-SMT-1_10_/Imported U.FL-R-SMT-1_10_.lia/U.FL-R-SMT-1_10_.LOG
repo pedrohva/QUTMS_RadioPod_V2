@@ -1,0 +1,32 @@
+PCAD Importer Log
+Project : U.FL-R-SMT-1_10_.LibPkg
+
+Section : D:\Projects\QUTMS\QUTMS_RadioPod_V2\hardware\footprints\U.FL-R-SMT-1_10_\U.FL-R-SMT-1_10_.lia
+    Section : PCB Library - U.FL-R-SMT-1_10_.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token U.FL-R-SMT-1(10) On Line 158
+            Warning - 1 : Skipping Token attachedSymbol On Line 221
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - U.FL-R-SMT-1_10_.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 101
+            Warning - 1 : Skipping Token layerContents On Line 111
+            Warning - 1 : Skipping Token layerContents On Line 121
+            Warning - 1 : Skipping Token layerContents On Line 126
+            Warning - 1 : Skipping Token layerContents On Line 134
+            Warning - 1 : Skipping Token layerContents On Line 142
+            Warning - 1 : Skipping Token layerContents On Line 148
+        EndSection
+
+        Section : Generating SCH Library - U.FL-R-SMT-1_10_.SchLib
+        EndSection
+    EndSection
+EndSection

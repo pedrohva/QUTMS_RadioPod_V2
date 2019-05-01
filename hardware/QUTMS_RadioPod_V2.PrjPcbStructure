@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=QUTMS_Radio_Pod.SchDoc
+Record=SheetSymbol|SourceDocument=QUTMS_Radio_Pod.SchDoc|Designator=U_CAN|SchDesignator=U_CAN|FileName=CAN.SchDoc|SymbolType=Normal|RawFileName=CAN.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=QUTMS_Radio_Pod.SchDoc|Designator=U_MCU|SchDesignator=U_MCU|FileName=MCU.SchDoc|SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=QUTMS_Radio_Pod.SchDoc|Designator=U_Wireless_Comm|SchDesignator=U_Wireless_Comm|FileName=Wireless_Comm.SchDoc|SymbolType=Normal|RawFileName=Wireless_Comm.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

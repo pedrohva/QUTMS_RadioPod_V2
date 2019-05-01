@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : 2450FB15L0001E.LibPkg
+
+Section : D:\Projects\QUTMS\QUTMS_RadioPod_V2\hardware\footprints\2450FB15L0001E\2450FB15L0001E.lia
+    Section : PCB Library - 2450FB15L0001E.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 2450FB15L0001E On Line 123
+            Warning - 1 : Skipping Token attachedSymbol On Line 210
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - 2450FB15L0001E.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 92
+            Warning - 1 : Skipping Token layerContents On Line 97
+            Warning - 1 : Skipping Token layerContents On Line 103
+            Warning - 1 : Skipping Token layerContents On Line 112
+        EndSection
+
+        Section : Generating SCH Library - 2450FB15L0001E.SchLib
+        EndSection
+    EndSection
+EndSection
